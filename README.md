@@ -46,6 +46,7 @@
 
 ###  💾 Commit Convention 
 ❗ 만약 추가하고 싶은 convention이 있으면 공유해주세요 ❗
+- **Chapter__**: 진행한 챕터의 제목
 - **Feat**: 새로운 기능 추가
 - **Fix**: 버그 수정
 - **Docs**: 문서 수정
