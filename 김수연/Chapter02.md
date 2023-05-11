@@ -272,3 +272,8 @@ public class Start5 {
 - 멀티 프로세스는 다수의 T 메모리 사용
 
 - 멀티 스레드 사용시 전역 변수를 사용할 경우 문제가 있을수 있음
+
+### Reference
+[멀티스레드 & 멀티프로세스](https://velog.io/@xxhaileypark/멀티-스레드Multi-Thread-멀티-프로세스Multi-process)
+[멀티스레드 & 멀티프로세스](https://you9010.tistory.com/m/136)
+[객체지향 프로그램의 메모리 사용방식] (https://server-engineer.tistory.com/217)
