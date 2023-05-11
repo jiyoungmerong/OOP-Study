@@ -275,5 +275,7 @@ public class Start5 {
 
 ### Reference
 [멀티스레드 & 멀티프로세스](https://velog.io/@xxhaileypark/멀티-스레드Multi-Thread-멀티-프로세스Multi-process)
+
 [멀티스레드 & 멀티프로세스](https://you9010.tistory.com/m/136)
-[객체지향 프로그램의 메모리 사용방식] (https://server-engineer.tistory.com/217)
+
+[객체지향 프로그램의 메모리 사용방식](https://server-engineer.tistory.com/217)
